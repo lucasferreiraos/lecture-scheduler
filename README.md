@@ -1,1 +1,1 @@
-# lecture-scheduler
+# Lecture Scheduler
